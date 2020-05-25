@@ -7,3 +7,21 @@ body {
     height: 100vh;
     margin: 0;
 }
+
+.box {
+    background-color: #fff;
+    border-radius: 30px 30px 30px 30px;
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+    padding: 30px;
+    text-align: center;
+    max-width: 500px;
+}
+
+.box h2 {
+    margin: 12px 0 0;
+}
+
+.box p {
+    color: #000000;
+    margin: 10px;
+}
