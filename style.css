@@ -25,3 +25,21 @@ body {
     color: #000000;
     margin: 10px;
 }
+
+.form-control {
+    position: relative;
+    margin: 30px 0 20px;
+}
+
+.input {
+    border: 0;
+    border-radius: 50px;
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+    display: block;
+    font-family: 'Muli', sans-serif;
+    font-size: 14px;
+    height: 42px;
+    padding: 12px 25px;
+    width: 100%;
+}
+
